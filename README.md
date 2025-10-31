@@ -47,7 +47,9 @@ Create clear and insightful data visualizations for decision-making.
 - Add data labels, remove gridlines for clarity  
 - Align bars symmetrically (positives right, negatives left)
 
----
+---![Screenshot_12](https://github.com/user-attachments/assets/65faf605-d2f0-4f70-82be-2d989ae3d49d)
+
+![Screenshot_13](https://github.com/user-attachments/assets/8569b665-193d-4caf-b117-33e948a09031)
 
 ## 💡 Key Insights
 
